@@ -82,7 +82,7 @@ body{
   }
   .main-heading{
     font-family:'Courier New', Courier, monospace ;
-    font-style:normal;
+    font-style:italic;
     font-weight: bolder;
     text-transform: uppercase;
   }
